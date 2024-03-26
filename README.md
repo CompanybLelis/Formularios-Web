@@ -1,6 +1,7 @@
 # Projeto Formulários Web
 
 Este é um projeto desenvolvido para criar e estilizar formulários web interativos usando HTML e CSS. O objetivo principal é capturar dados do usuário de forma eficiente e apresentá-los em um layout agradável.
+
 ![Cover Formulários Web](https://github.com/CompanybLelis/Stage3-1Projeto/assets/69200014/a5fb9454-a3c7-47af-add2-6d1ec3121a1d)
 
 ## Descrição do Projeto
